@@ -1,5 +1,5 @@
 # IEEE-Template
-IEEE System Requirements Specification Template.
+IEEE System Requirements Specification Template
 
 
 # Software Requirements Specification
